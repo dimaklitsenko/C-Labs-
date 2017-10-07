@@ -1,0 +1,9 @@
+c:\users\dima\documents\visual studio 2015\Projects\Laba2part2\Laba2part2\bin\Debug\Laba2part2.exe.config
+C:\Users\Dima\Documents\Visual Studio 2015\Projects\Laba2part2\Laba2part2\bin\Debug\Laba2part2.exe
+C:\Users\Dima\Documents\Visual Studio 2015\Projects\Laba2part2\Laba2part2\bin\Debug\Laba2part2.pdb
+C:\Users\Dima\Documents\Visual Studio 2015\Projects\Laba2part2\Laba2part2\obj\Debug\Laba2part2.Form1.resources
+C:\Users\Dima\Documents\Visual Studio 2015\Projects\Laba2part2\Laba2part2\obj\Debug\Laba2part2.Properties.Resources.resources
+C:\Users\Dima\Documents\Visual Studio 2015\Projects\Laba2part2\Laba2part2\obj\Debug\Laba2part2.csproj.GenerateResource.Cache
+C:\Users\Dima\Documents\Visual Studio 2015\Projects\Laba2part2\Laba2part2\obj\Debug\Laba2part2.exe
+C:\Users\Dima\Documents\Visual Studio 2015\Projects\Laba2part2\Laba2part2\obj\Debug\Laba2part2.pdb
+C:\Users\Dima\Documents\Visual Studio 2015\Projects\Laba2part2\Laba2part2\obj\Debug\Laba2part2.csprojResolveAssemblyReference.cache
